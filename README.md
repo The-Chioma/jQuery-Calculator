@@ -1,6 +1,6 @@
 # jQuery Calculator
 
-I have created a simple calculator website using jQuery. 
+I have created a simple calculator website using jQuery for basic math problems. 
 
 (link below)
 
